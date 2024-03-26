@@ -17,8 +17,6 @@ In contrast to message-passing parallelism, this project focuses on shared memor
 ## 5. A Simple CUDA Renderer
 This project provides a simple CUDA renderer implemented using NVIDIA's CUDA parallel computing platform. CUDA allows developers to harness the computational power of NVIDIA GPUs for general-purpose parallel computing tasks. The renderer showcases GPU acceleration techniques for graphics rendering tasks.
 
-[GitHub Repository Link](https://github.com/stanford-cs149/asst3/)
-
 ## 6. Building A Task Execution Library from the Ground Up
 This project involves the development of a task execution library designed to facilitate parallel task execution on distributed or shared memory architectures. The library abstracts away complexities of parallelism and provides a simple interface for managing parallel tasks efficiently.
 
