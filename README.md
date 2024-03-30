@@ -26,4 +26,3 @@ Chat149 is a deep neural network (DNN) architecture based on the Transformer mod
 ## 8. Performance Analysis on a Quad-Core CPU
 This project conducts performance analysis and optimization techniques on a quad-core CPU architecture. It involves profiling and benchmarking various parallel algorithms and applications to understand resource utilization, scalability, and bottlenecks on multi-core processors.
 
-These projects showcase different parallel computing paradigms and applications, ranging from simulations to deep learning models and parallel libraries development.
