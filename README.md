@@ -14,7 +14,7 @@ This project explores message-passing parallelism techniques using various frame
 ## 4. Shared Memory Parallelism
 In contrast to message-passing parallelism, this project focuses on shared memory parallelism techniques. It includes implementations of parallel algorithms and applications optimized for multi-core architectures using frameworks like OpenMP or pthreads. Shared memory parallelism enables efficient utilization of resources within a single compute node.
 
-## 5. A Simple CUDA Renderer
+## 5. [A Simple CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)
 This project provides a simple CUDA renderer implemented using NVIDIA's CUDA parallel computing platform. CUDA allows developers to harness the computational power of NVIDIA GPUs for general-purpose parallel computing tasks. The renderer showcases GPU acceleration techniques for graphics rendering tasks.
 
 ## 6. Building A Task Execution Library from the Ground Up
